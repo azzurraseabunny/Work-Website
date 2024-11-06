@@ -13,7 +13,7 @@ inputs:
     required: false
     default: ""
   path:
-    description: "Path of the directory containing your site"
+    description: "Work-Website/"
     required: false
     default: "."
 
