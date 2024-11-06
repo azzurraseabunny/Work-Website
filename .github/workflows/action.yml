@@ -13,7 +13,7 @@ inputs:
     required: false
     default: ""
   path:
-    description: "Work-Website/"
+    description: "src/pages"
     required: false
     default: "."
 
